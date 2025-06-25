@@ -14,7 +14,8 @@ AFL Match Tracker is a real-time, cross-platform sports analytics application bu
 
 ## 📷 Screenshots
 
-*(Add screenshots in this section once available)*
+![image](https://github.com/user-attachments/assets/0e1ea974-de3a-415e-9865-411e31972285)
+
 
 ---
 
