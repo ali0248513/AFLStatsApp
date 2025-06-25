@@ -62,7 +62,7 @@ dart
 ---
 
 
-##📦 Installation
+## 📦 Installation
 Prerequisites
 Flutter SDK: https://flutter.dev/docs/get-started/install
 
@@ -70,7 +70,7 @@ Firebase account
 
 ---
 
-🚧 Challenges Faced
+## 🚧 Challenges Faced
 Real-time state synchronization during fast-paced matches
 
 Firebase platform setup (especially for Web)
@@ -81,7 +81,7 @@ Ensuring smooth performance during rapid action logging
 
 ---
 
-🌱 Future Enhancements
+## 🌱 Future Enhancements
 Firebase Authentication for personalized data views
 
 Export match data to CSV/PDF
@@ -94,7 +94,7 @@ Advanced charts and visual analytics
 
 ---
 
-📚 References & Inspiration
+## 📚 References & Inspiration
 Flutter Documentation
 
 Firebase Docs
@@ -106,7 +106,7 @@ OpenAI ChatGPT (architecture suggestions)
 Stack Overflow
 
 ---
-🙌 Contributions
+## 🙌 Contributions
 Contributions are welcome! Fork the repository, submit a pull request, or open an issue for discussion.
 
 
