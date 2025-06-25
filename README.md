@@ -66,6 +66,17 @@ Flutter SDK: https://flutter.dev/docs/get-started/install
 
 Firebase account
 
+
+
+   
+## 📥 Clone the Repository
+
+To clone this project locally:
+
+  bash
+  git clone https://github.com/your-username/afl-match-tracker.git
+  cd afl-match-tracker
+
 🚧 Challenges Faced
 Real-time state synchronization during fast-paced matches
 
