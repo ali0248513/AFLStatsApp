@@ -28,6 +28,7 @@ A real-time, cross-platform sports analytics app built with **Flutter** and **Fi
   <img src="https://github.com/user-attachments/assets/0532bc0d-47d2-46ee-9f01-75539c91f8f7" width="200" />
   <img src="https://github.com/user-attachments/assets/0e0e94b5-3790-425c-8414-9a6202aced09" width="200" />
   <img src="https://github.com/user-attachments/assets/fc688fa8-eebb-49c5-916b-32579aa1cc1c" width="200" />
+  <img src="https://github.com/user-attachments/assets/78b89c3a-6df2-419b-8c5b-ba2e29b71c01" width="200" />
 </p>
 
 
