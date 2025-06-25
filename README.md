@@ -60,22 +60,15 @@ dart
    }
 
 ---
+
+
 ##📦 Installation
 Prerequisites
 Flutter SDK: https://flutter.dev/docs/get-started/install
 
 Firebase account
 
-
-
-   
-## 📥 Clone the Repository
-
-To clone this project locally:
-
-  bash
-  git clone https://github.com/your-username/afl-match-tracker.git
-  cd afl-match-tracker
+---
 
 🚧 Challenges Faced
 Real-time state synchronization during fast-paced matches
@@ -85,6 +78,8 @@ Firebase platform setup (especially for Web)
 Preventing illogical action sequences during play
 
 Ensuring smooth performance during rapid action logging
+
+---
 
 🌱 Future Enhancements
 Firebase Authentication for personalized data views
@@ -97,12 +92,12 @@ Admin panel for user and team management
 
 Advanced charts and visual analytics
 
+---
+
 📚 References & Inspiration
 Flutter Documentation
 
 Firebase Docs
-
-The Net Ninja - Flutter Playlist
 
 Fireship.io
 
@@ -110,9 +105,7 @@ OpenAI ChatGPT (architecture suggestions)
 
 Stack Overflow
 
-📄 License
-MIT License – feel free to use, modify, and contribute!
-
+---
 🙌 Contributions
 Contributions are welcome! Fork the repository, submit a pull request, or open an issue for discussion.
 
