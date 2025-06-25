@@ -16,40 +16,20 @@ A real-time, cross-platform sports analytics app built with **Flutter** and **Fi
 
 ---
 
-## 📷 Screenshots
+<h3 align="center">📷 Screenshots</h3>
 
-### 🏠 Home Screen
-![Home](https://github.com/user-attachments/assets/5b245a79-c001-492b-8125-737403560308)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5b245a79-c001-492b-8125-737403560308" width="200" />
+  <img src="https://github.com/user-attachments/assets/80a02463-efbf-46a4-b5e9-a7b556050f4c" width="200" />
+  <img src="https://github.com/user-attachments/assets/affff6c1-0409-4ea6-81fb-49adbf64a842" width="200" />
+</p>
 
-### 📊 Match Summary View
-![Summary](https://github.com/user-attachments/assets/80a02463-efbf-46a4-b5e9-a7b556050f4c)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0532bc0d-47d2-46ee-9f01-75539c91f8f7" width="200" />
+  <img src="https://github.com/user-attachments/assets/0e0e94b5-3790-425c-8414-9a6202aced09" width="200" />
+  <img src="https://github.com/user-attachments/assets/fc688fa8-eebb-49c5-916b-32579aa1cc1c" width="200" />
+</p>
 
-### 🔍 Player Comparison
-![Comparison](https://github.com/user-attachments/assets/affff6c1-0409-4ea6-81fb-49adbf64a842)
-
-### 🧑‍🤝‍🧑 Team Stats
-![Team Stats](https://github.com/user-attachments/assets/0532bc0d-47d2-46ee-9f01-75539c91f8f7)
-
-### 🧾 Action Logging Screen
-![Log Action](https://github.com/user-attachments/assets/0e0e94b5-3790-425c-8414-9a6202aced09)
-
-### ⌛ Quarter Timer
-![Timer](https://github.com/user-attachments/assets/fc688fa8-eebb-49c5-916b-32579aa1cc1c)
-
-### 📂 Match History
-![History](https://github.com/user-attachments/assets/a25098b6-1fe9-4af0-ba2f-0c384f40d138)
-
-### ⚙️ Settings / About Screen
-![About](https://github.com/user-attachments/assets/1741456c-d7da-4ea5-b7e4-cb4ede4cb97e)
-
-### 📈 Real-time Stats View
-![Live Stats](https://github.com/user-attachments/assets/5d296f29-2966-4079-b538-76b7481cbb60)
-
-### 🔒 Role-based Access Screens
-![Role UI](https://github.com/user-attachments/assets/152bea08-89f9-4159-bfdf-870d95523694)
-
-### 📁 Player Profiles
-![Player Profiles](https://github.com/user-attachments/assets/bf34b9c0-e4a5-4df6-bb09-bc935349fed4)
 
 ---
 
